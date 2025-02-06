@@ -14,3 +14,5 @@ Some facts about me:
 - My goal is to find a dream job in data analytics
 
 All projects completed during my time learning with Tripleten can be found on Github! 
+
+Feel Free to contact me on LinkedIn or Github
